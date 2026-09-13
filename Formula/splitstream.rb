@@ -6,23 +6,23 @@ class Splitstream < Formula
 
   on_macos do
     on_arm do
-      url "https://github.com/aprendomx/splitstream/releases/download/v0.11.0/splitstream-v0.11.0-macos-apple-silicon.tar.gz"
-      sha256 "6650705f52d1b708428a0ff8c04807cc8bf48a7bce24d7ee8fde32eeaf402445"
+      url "https://github.com/aprendomx/splitstream/releases/download/v0.12.0/splitstream-v0.12.0-macos-apple-silicon.tar.gz"
+      sha256 "3308028bc9f63bc879d50debef8ed7bbfb333c05a15348a211e2cc50ce541b43"
     end
     on_intel do
-      url "https://github.com/aprendomx/splitstream/releases/download/v0.11.0/splitstream-v0.11.0-macos-intel.tar.gz"
-      sha256 "0ba9bec61621d7b04f30d1de448aed7bde0a73d157b7fb204fbfd60d25a648a1"
+      url "https://github.com/aprendomx/splitstream/releases/download/v0.12.0/splitstream-v0.12.0-macos-intel.tar.gz"
+      sha256 "633c3dd3bfd0abd54052d62710f06e1e4d6bd1810c073c98bf545fc2d90c61fb"
     end
   end
 
   on_linux do
     on_arm do
-      url "https://github.com/aprendomx/splitstream/releases/download/v0.11.0/splitstream-v0.11.0-linux-arm64.tar.gz"
-      sha256 "b45422d795500a989c734ab7b0b2b483e02d33d06e0a2049d8c0d3d7a7a340a1"
+      url "https://github.com/aprendomx/splitstream/releases/download/v0.12.0/splitstream-v0.12.0-linux-arm64.tar.gz"
+      sha256 "c40e9f464df80a209791b31833177e10e80668ea9de86f515acc55d9e35b408f"
     end
     on_intel do
-      url "https://github.com/aprendomx/splitstream/releases/download/v0.11.0/splitstream-v0.11.0-linux-x86_64.tar.gz"
-      sha256 "2efd38ff9805258e53de830047927394e4e1f6821a567b08b9191bdcf4b3cefa"
+      url "https://github.com/aprendomx/splitstream/releases/download/v0.12.0/splitstream-v0.12.0-linux-x86_64.tar.gz"
+      sha256 "66e584c5d2a8ce611cc3f4077b188d79c4d5c76274597ef3d1f7528c3f3e7227"
     end
   end
 
